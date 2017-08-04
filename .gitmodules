@@ -1,6 +1,7 @@
 [submodule "buddyandroid"]
 	path = buddyandroid
 	url = git@github.com:zhanhui913/buddyandroid.git
+	branch = app2
 [submodule "foodtrackerios"]
 	path = foodtrackerios
 	url = git@github.com:zhanhui913/foodtrackerios.git
